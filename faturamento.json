@@ -1,0 +1,9 @@
+[
+    {"dia": "2024-09-01", "faturamento": 1200},
+    {"dia": "2024-09-02", "faturamento": 1500},
+    {"dia": "2024-09-03", "faturamento": 1700},
+    {"dia": "2024-09-04", "faturamento": 0},    
+    {"dia": "2024-09-05", "faturamento": 2000},
+    {"dia": "2024-09-06", "faturamento": 2500}
+   
+]
